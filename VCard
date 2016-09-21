@@ -1,0 +1,56 @@
+<doctype html>
+<html>
+<head>
+<style>
+#content {
+    background: rgb(0, 163, 235);
+    min-width: 500px;
+    max-width: 500px;
+    padding: 75px;
+    margin: auto;
+    margin-top: -50px;
+    line-height: 150%;
+} 
+#main {
+    text-align: center;
+}        
+
+h1 {
+    letter-spacing: 2px;
+    font-size: 20px;
+    text-align: center;
+}
+ 
+a:link    {color:#84d5ff; background-color:transparent; text-decoration:none}
+a:visited {color:#80dee2; background-color:transparent; text-decoration:none}
+a:hover   {color:#e6eef2; background-color:transparent; text-decoration:underline}
+a:active  {color:#fdfd00; background-color:transparent; text-decoration:underline}
+
+</style>
+</head>    
+<body>  
+<div id="main">
+        <img  src="https://scontent-dft4-2.xx.fbcdn.net/v/t1.0-9/14355107_1355484351159055_8808016969776151254_n.jpg?oh=9c9a4673d2fbed3db71c52cdf8a5f3ce&oe=58752C86" alt="profile picture" width="300" height="300">
+    </div>s
+    <div id="content">
+        <h1><b>Benjamin Lewandowski</b></h1>
+        <h2><i><p>Without a goal you cannot score - Casey Neistat</p></i>
+</h2>
+        
+         <p>I am a freshman at <a href="http://www.bju.edu/" target="_blank">Bob Jones University</a> majoring in Business Administration.
+             
+        </p>
+        <b>Brief Biography</b>
+        <p>
+            I was born in Hartford Connecticut, but moved to Indianapolis Indiana eight months later. I was Home-educated in Indiana through the 12th grade and was an active participant in<a href=http://www.usfreal.org target="_blank"> multiple nationally ranked soccer clubs</a> throughout elementary and high-school. I am now a student at Bob Jones University in Greenville South Carolina.
+         </p> 
+        <b>Additional Interests</b>
+        <p>My other interests include outdoor activities such as camping and hiking.In addition to those outdoor activities I enjoy reading, particularly in the adventure genre. </p>
+        
+       <b>Education:</b>
+        Business Administration Major<br>
+        Bob Jones University
+    </div>
+           
+</body>
+</html>
