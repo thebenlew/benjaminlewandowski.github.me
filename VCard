@@ -24,7 +24,7 @@ h1 {
     text-align: center;
 }
  
-a:link    {color:#84d5ff; background-color:transparent; text-decoration:none}
+a:link    {color:#8ec9e8; background-color:transparent; text-decoration:none}
 a:visited {color:#80dee2; background-color:transparent; text-decoration:none}
 a:hover   {color:#e6eef2; background-color:transparent; text-decoration:underline}
 a:active  {color:#fdfd00; background-color:transparent; text-decoration:underline}
