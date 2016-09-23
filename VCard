@@ -34,7 +34,7 @@ a:active  {color:#fdfd00; background-color:transparent; text-decoration:underlin
 <body bgcolor="#778899"> 
 <div id="main">
         <img  src="https://scontent-dft4-2.xx.fbcdn.net/v/t1.0-9/14355107_1355484351159055_8808016969776151254_n.jpg?oh=9c9a4673d2fbed3db71c52cdf8a5f3ce&oe=58752C86" alt="profile picture" width="300" height="300">
-    </div>s
+    </div>
     <div id="content">
         <h1 style="font-family:cursive;">Benjamin Lewandowski</h1>
         <h2><i><p>Without a goal you cannot score - Casey Neistat</p></i>
